@@ -1,0 +1,119 @@
+{% load static %}
+<!-- TODO: Maybe insert icons? Preferably from Font Awesome. -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <title>Data Mining Project</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM"
+          crossorigin="anonymous">
+    <link rel="stylesheet" href="{% static 'long_bar/css/style.css' %}">
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg bg-light" id="phishingNavbar">
+      <div class="container">
+        <img src="{% static 'long_bar/img/logo.png' %}"
+             height="70"
+             alt="Website logo" />
+        <button class="navbar-toggler ps-0"
+                type="button"
+                data-mdb-toggle="collapse"
+                data-mdb-target="#website_navbar"
+                aria-controls="navbarExample01"
+                aria-expanded="false"
+                aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon d-flex justify-content-start align-items-center">
+            <i class="fas fa-bars"></i>
+          </span>
+        </button>
+        <div class="collapse navbar-collapse" id="website_navbar">
+          <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+            <li class="nav-item active">
+              <a class="nav-link" aria-current="page" href="#home">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" aria-current="page" href="#about">About us</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" aria-current="page" href="#contact">Contact</a>
+            </li>
+          </ul>
+          <ul class="navbar-nav flex-row">
+            <li class="nav-item">
+              <a class="nav-link px-2" href="#!">
+                <i class="fab fa-facebook-square"></i>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link px-2" href="#!">
+                <i class="fab fa-instagram"></i>
+              </a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link ps-2" href="#!">
+                <i class="fab fa-youtube"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="container py-5">
+      <div class="row justify-content-center">
+        <div class="col-sm-8 col-md-6 text-center">
+          <h1>Phishing Link Detector</h1>
+          <form method="get" action="#" class="mb-4">
+            <div class="mb-3">
+              <input type="text" id="urlInput" class="form-control"
+                placeholder="Enter URL here">
+            </div>
+            <button type="submit" class="btn btn-primary">Check Link</button>
+          </form>
+          <!-- TODO: Maybe show extracted features in here.. -->
+          <h2>URL Features</h2>
+          <p>These features are extracted from the URL to help in determining
+            whether the website is legitimate or not.</p>
+          <table class="table">
+            <thead>
+              <tr>
+                <th scope="col">Feature</th>
+                <th scope="col">Value</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row">No. of Hyphens</th>
+                <td>26</td>
+              </tr>
+              <tr>
+                <th scope="row">Contains Recognized Brand Name</th>
+                <td>
+                  <span class="badge bg-success">Yes</span>
+                  <span class="badge bg-danger">No</span>
+                </td>
+              </tr>
+            </tbody>
+          </table>
+          <!-- TODO: Show a loading bar animation while the API is still predicting. -->
+          <div class="alert alert-success alert-dismissible fade show mb-3" role="alert">
+            The website is legitimate.
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+          </div>
+          <div class="alert alert-danger alert-dismissible fade show" role="alert">
+            This is a phishing website!
+            <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"
+            integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz"
+            crossorigin="anonymous"></script>
+  </body>
+</html>
