@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 django = "*"
+tldextract = "*"
+requests = "*"
+torch = "*"
+dill = "*"
 
 [dev-packages]
 

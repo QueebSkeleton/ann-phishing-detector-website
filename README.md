@@ -28,6 +28,8 @@ Then, to actually set up the project:
    local copy.
 1. `python manage.py createsuperuser` - create a superuser account of
    the website.
+1. `python manage.py loaddata long_bar/fixtures/long_bar/brands.json` -
+   initializes the known brands database.
 1. `python manage.py runserver` - check if your setup is running.
 
 ## Development Workflow

@@ -1,3 +1,8 @@
 from django.contrib import admin
 
-# Register your models here.
+from .models import KnownBrand
+
+@admin.register(KnownBrand)
+class KnownBrandModelAdmin(admin.ModelAdmin):
+    list_display = ('name',)
+    search_fields = ('name',)
