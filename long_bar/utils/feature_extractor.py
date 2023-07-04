@@ -5,7 +5,7 @@ import requests
 import tldextract
 import urllib
 
-from ..models import KnownBrand
+from ..models import KnownBrand, PhishingHint, SuspiciousTLD
 
 
 # TODO: Maybe persist this
@@ -15,20 +15,9 @@ def extract_features(url):
 
     KNOWN_BRANDS = [knownbrand.name for knownbrand in KnownBrand.objects.all()]
 
-    # TODO: Maybe persist this to database
-    PHISHING_HINTS = ['wp', 'login', 'includes', 'admin', 'content', 'site', 'images',
-                      'js', 'alibaba', 'css', 'myaccount', 'dropbox', 'themes', 'plugins',
-                      'signin', 'view']
+    PHISHING_HINTS = [phishinghint.value for phishinghint in PhishingHint.objects.all()]
 
-    SUSPICIOUS_TLDS = ['fit', 'tk', 'gp', 'ga', 'work', 'ml', 'date', 'wang', 'men', 'icu', 'online', 'click',  # Spamhaus
-                       'country', 'stream', 'download', 'xin', 'racing', 'jetzt',
-                       'ren', 'mom', 'party', 'review', 'trade', 'accountants',
-                       'science', 'work', 'ninja', 'xyz', 'faith', 'zip', 'cricket', 'win',
-                       'accountant', 'realtor', 'top', 'christmas', 'gdn',  # Shady Top-Level Domains
-                       'link',  # Blue Coat Systems
-                       'asia', 'club', 'la', 'ae', 'exposed', 'pe', 'go.id', 'rs', 'k12.pa.us', 'or.kr',
-                       'ce.ke', 'audio', 'gob.pe', 'gov.az', 'website', 'bj', 'mx', 'media', 'sa.gov.au'  # statistics
-                       ]
+    SUSPICIOUS_TLDS = [suspicioustld.value for suspicioustld in SuspiciousTLD.objects.all()]
 
     def extract_raw_words(domain, subdomain, path):
         w_domain = re.split("\-|\.|\/|\?|\=|\@|\&|\%|\:|\_", domain.lower())
