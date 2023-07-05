@@ -37,6 +37,8 @@ To develop and push changes, then follow these steps:
 
 1. Head to main branch. `git checkout main`
 1. Branch out. `git branch your_branch`
+1. Update project dependencies. `pipenv install`
+1. `pipenv shell`
 1. Install database migrations. `python manage.py migrate`
 1. Implement your changes to the source code.
 1. Check your changes. `python manage.py runserver`
