@@ -9,6 +9,7 @@ tldextract = "*"
 requests = "*"
 torch = "*"
 dill = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
