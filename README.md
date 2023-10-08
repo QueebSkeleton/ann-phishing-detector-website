@@ -1,50 +1,77 @@
-# Phishing Website Detector
+<a name="readme-top"></a>
 
-This is a website for determining whether a website is legitimate or not
-based on its URL features. An artificial neural network is trained
-from the Web Page Phishing Detection dataset viewable through this
-<a href="https://data.mendeley.com/datasets/c2gw7fy2j4/3">link</a>.
+<!-- PROJECT SHIELDS -->
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
-The website is created and served by Django. The Neural Network is made
-with PyTorch and is saved as a .bin file which is loaded by the API whenever
-predictions are needed.
+<div align="center">
+  <h3 align="center">Neural Network Phishing Website Detector</h3>
+  <p align="center">
+    For deteching phishing websites in both a URL and content-based manner.
+  </p>
+</div>
 
-## Setting Up
+## About the Project
 
-To set up the project, ensure you have the following prerequisite software
-on your machine:
+This website embeds a website phishing detector neural network model as an exposed
+API on the backend. A request is to be made to this API which loads the
+embedded model binary, then the results of the inference is returned as JSON.
 
-* Python 3.11.x
-* Pipenv - dependency manager on top of pip and virtualenv.
-  Execute `pip install pipenv` to install on your machine.
+The model extracts features both from the Uniform Resource Locator itself and
+the website contents via an HTTP request.
 
-Then, to actually set up the project:
+The software is submitted in partial fulfillment of the requirements for the course
+**CS Elective 4 - Data Mining** under the *Computer Science* program of the
+Polytechnic University of the Philippines.
 
-1. Clone this repository on your machine.
-1. Open the project directory on your terminal
-1. `pipenv install`
-1. `pipenv shell`
-1. `python manage.py migrate` - installs the database migrations to your
-   local copy.
-1. `python manage.py createsuperuser` - create a superuser account of
-   the website.
-1. `python manage.py loaddata long_bar/fixtures/long_bar/brands_hints_tlds.json`
-1. `python manage.py runserver` - check if your setup is running.
+## Todo for the Project
 
-## Development Workflow
+- [x] Main Frontend
+- [x] Train and deploy ANN model with the project as a binary
+- [ ] Easier training facility with Django Admin
 
-To develop and push changes, then follow these steps:
+## Built With
 
-1. Head to main branch. `git checkout main`
-1. Branch out. `git branch your_branch`
-1. Update project dependencies. `pipenv install`
-1. `pipenv shell`
-1. Install database migrations. `python manage.py migrate`
-1. Implement your changes to the source code.
-1. Check your changes. `python manage.py runserver`
-1. Perform a commit. Make sure you put a summary message.
-   `git commit -m 'message'`
-1. Push your branch. `git push origin your_branch`
-1. On the Github page of this repo, create a pull request.
-   Briefly discuss your changes. Ask for it to be merged to
-   main. Should look like the following: `main <- your_branch`
+This website is built with the following technologies:
+
+[![Python][Python-shield]][Python-docs]
+[![Django][Django-shield]][Django-docs]
+[![PyTorch][PyTorch-shield]][PyTorch-docs]
+
+## Installation
+
+Install the following beforehand:
+
+1. Python 3.x
+1. pipenv - `pip install pipenv`
+
+To run on your development machine, do the following steps:
+
+1. Clone the repo - `git clone https://github.com/QueebSkeleton/ann-phishing-detector-website.git`
+1. Open the project directory on your terminal.
+1. Install dependencies - `pipenv install`
+1. Run a shell with the created virtualenv - `pipenv shell`
+1. Run database migrations - `python manage.py migrate`
+1. Create an admin account for the website - `python manage.py createsuperuser`
+then follow the instructions.
+1. Run the dev server - `python manage.py runserver`
+
+Then, the instance will now run on your local machine. Endpoints are:
+
+1. `localhost:8000` - the index page of the application.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Markdown Links & Images -->
+[stars-shield]: https://img.shields.io/github/stars/QueebSkeleton/ann-phishing-detector-website?style=for-the-badge
+[stars-url]: https://github.com/QueebSkeleton/ann-phishing-detector-website/stargazers
+[issues-shield]: https://img.shields.io/github/issues/QueebSkeleton/ann-phishing-detector-website?style=for-the-badge
+[issues-url]: https://github.com/QueebSkeleton/ann-phishing-detector-website/issues
+
+[Python-shield]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
+[Python-docs]: https://www.python.org/
+[Django-shield]: https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white
+[Django-docs]: https://www.djangoproject.com/
+[PyTorch-shield]: https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white
+[PyTorch-docs]: https://pytorch.org/
+
