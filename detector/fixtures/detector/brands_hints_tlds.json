@@ -1,2316 +1,2316 @@
 [
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 1,
     "fields": {
         "name": "accenture"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 2,
     "fields": {
         "name": "activisionblizzard"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 3,
     "fields": {
         "name": "adidas"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 4,
     "fields": {
         "name": "adobe"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 5,
     "fields": {
         "name": "adultfriendfinder"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 6,
     "fields": {
         "name": "agriculturalbankofchina"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 7,
     "fields": {
         "name": "akamai"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 8,
     "fields": {
         "name": "alibaba"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 9,
     "fields": {
         "name": "aliexpress"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 10,
     "fields": {
         "name": "alipay"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 11,
     "fields": {
         "name": "alliance"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 12,
     "fields": {
         "name": "alliancedata"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 13,
     "fields": {
         "name": "allianceone"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 14,
     "fields": {
         "name": "allianz"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 15,
     "fields": {
         "name": "alphabet"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 16,
     "fields": {
         "name": "amazon"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 17,
     "fields": {
         "name": "americanairlines"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 18,
     "fields": {
         "name": "americanexpress"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 19,
     "fields": {
         "name": "americantower"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 20,
     "fields": {
         "name": "andersons"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 21,
     "fields": {
         "name": "apache"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 22,
     "fields": {
         "name": "apple"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 23,
     "fields": {
         "name": "arrow"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 24,
     "fields": {
         "name": "ashleymadison"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 25,
     "fields": {
         "name": "audi"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 26,
     "fields": {
         "name": "autodesk"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 27,
     "fields": {
         "name": "avaya"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 28,
     "fields": {
         "name": "avisbudget"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 29,
     "fields": {
         "name": "avon"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 30,
     "fields": {
         "name": "axa"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 31,
     "fields": {
         "name": "badoo"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 32,
     "fields": {
         "name": "baidu"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 33,
     "fields": {
         "name": "bankofamerica"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 34,
     "fields": {
         "name": "bankofchina"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 35,
     "fields": {
         "name": "bankofnewyorkmellon"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 36,
     "fields": {
         "name": "barclays"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 37,
     "fields": {
         "name": "barnes"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 38,
     "fields": {
         "name": "bbc"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 39,
     "fields": {
         "name": "bbt"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 40,
     "fields": {
         "name": "bbva"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 41,
     "fields": {
         "name": "bebo"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 42,
     "fields": {
         "name": "benchmark"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 43,
     "fields": {
         "name": "bestbuy"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 44,
     "fields": {
         "name": "bim"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 45,
     "fields": {
         "name": "bing"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 46,
     "fields": {
         "name": "biogen"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 47,
     "fields": {
         "name": "blackstone"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 48,
     "fields": {
         "name": "blogger"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 49,
     "fields": {
         "name": "blogspot"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 50,
     "fields": {
         "name": "bmw"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 51,
     "fields": {
         "name": "bnpparibas"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 52,
     "fields": {
         "name": "boeing"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 53,
     "fields": {
         "name": "booking"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 54,
     "fields": {
         "name": "broadcom"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 55,
     "fields": {
         "name": "burberry"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 56,
     "fields": {
         "name": "caesars"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 57,
     "fields": {
         "name": "canon"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 58,
     "fields": {
         "name": "cardinalhealth"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 59,
     "fields": {
         "name": "carmax"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 60,
     "fields": {
         "name": "carters"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 61,
     "fields": {
         "name": "caterpillar"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 62,
     "fields": {
         "name": "cheesecakefactory"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 63,
     "fields": {
         "name": "chinaconstructionbank"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 64,
     "fields": {
         "name": "cinemark"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 65,
     "fields": {
         "name": "cintas"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 66,
     "fields": {
         "name": "cisco"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 67,
     "fields": {
         "name": "citi"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 68,
     "fields": {
         "name": "citigroup"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 69,
     "fields": {
         "name": "cnet"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 70,
     "fields": {
         "name": "coca-cola"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 71,
     "fields": {
         "name": "colgate"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 72,
     "fields": {
         "name": "colgate-palmolive"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 73,
     "fields": {
         "name": "columbiasportswear"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 74,
     "fields": {
         "name": "commonwealth"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 75,
     "fields": {
         "name": "communityhealth"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 76,
     "fields": {
         "name": "continental"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 77,
     "fields": {
         "name": "dell"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 78,
     "fields": {
         "name": "deltaairlines"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 79,
     "fields": {
         "name": "deutschebank"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 80,
     "fields": {
         "name": "disney"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 81,
     "fields": {
         "name": "dolby"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 82,
     "fields": {
         "name": "dominos"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 83,
     "fields": {
         "name": "donaldson"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 84,
     "fields": {
         "name": "dreamworks"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 85,
     "fields": {
         "name": "dropbox"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 86,
     "fields": {
         "name": "eastman"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 87,
     "fields": {
         "name": "eastmankodak"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 88,
     "fields": {
         "name": "ebay"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 89,
     "fields": {
         "name": "edison"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 90,
     "fields": {
         "name": "electronicarts"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 91,
     "fields": {
         "name": "equifax"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 92,
     "fields": {
         "name": "equinix"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 93,
     "fields": {
         "name": "expedia"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 94,
     "fields": {
         "name": "express"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 95,
     "fields": {
         "name": "facebook"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 96,
     "fields": {
         "name": "fedex"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 97,
     "fields": {
         "name": "flickr"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 98,
     "fields": {
         "name": "footlocker"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 99,
     "fields": {
         "name": "ford"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 100,
     "fields": {
         "name": "fordmotor"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 101,
     "fields": {
         "name": "fossil"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 102,
     "fields": {
         "name": "fosterwheeler"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 103,
     "fields": {
         "name": "foxconn"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 104,
     "fields": {
         "name": "fujitsu"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 105,
     "fields": {
         "name": "gap"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 106,
     "fields": {
         "name": "gartner"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 107,
     "fields": {
         "name": "genesis"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 108,
     "fields": {
         "name": "genuine"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 109,
     "fields": {
         "name": "genworth"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 110,
     "fields": {
         "name": "gigamedia"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 111,
     "fields": {
         "name": "gillette"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 112,
     "fields": {
         "name": "github"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 113,
     "fields": {
         "name": "global"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 114,
     "fields": {
         "name": "globalpayments"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 115,
     "fields": {
         "name": "goodyeartire"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 116,
     "fields": {
         "name": "google"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 117,
     "fields": {
         "name": "gucci"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 118,
     "fields": {
         "name": "harley-davidson"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 119,
     "fields": {
         "name": "harris"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 120,
     "fields": {
         "name": "hewlettpackard"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 121,
     "fields": {
         "name": "hilton"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 122,
     "fields": {
         "name": "hiltonworldwide"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 123,
     "fields": {
         "name": "hmstatil"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 124,
     "fields": {
         "name": "honda"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 125,
     "fields": {
         "name": "hsbc"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 126,
     "fields": {
         "name": "huawei"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 127,
     "fields": {
         "name": "huntingtonbancshares"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 128,
     "fields": {
         "name": "hyundai"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 129,
     "fields": {
         "name": "ibm"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 130,
     "fields": {
         "name": "ikea"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 131,
     "fields": {
         "name": "imdb"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 132,
     "fields": {
         "name": "imgur"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 133,
     "fields": {
         "name": "ingbank"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 134,
     "fields": {
         "name": "insight"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 135,
     "fields": {
         "name": "instagram"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 136,
     "fields": {
         "name": "intel"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 137,
     "fields": {
         "name": "jackdaniels"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 138,
     "fields": {
         "name": "jnj"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 139,
     "fields": {
         "name": "jpmorgan"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 140,
     "fields": {
         "name": "jpmorganchase"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 141,
     "fields": {
         "name": "kelly"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 142,
     "fields": {
         "name": "kfc"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 143,
     "fields": {
         "name": "kindermorgan"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 144,
     "fields": {
         "name": "lbrands"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 145,
     "fields": {
         "name": "lego"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 146,
     "fields": {
         "name": "lennox"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 147,
     "fields": {
         "name": "lenovo"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 148,
     "fields": {
         "name": "lindsay"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 149,
     "fields": {
         "name": "linkedin"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 150,
     "fields": {
         "name": "livejasmin"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 151,
     "fields": {
         "name": "loreal"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 152,
     "fields": {
         "name": "louisvuitton"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 153,
     "fields": {
         "name": "mastercard"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 154,
     "fields": {
         "name": "mcdonalds"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 155,
     "fields": {
         "name": "mckesson"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 156,
     "fields": {
         "name": "mckinsey"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 157,
     "fields": {
         "name": "mercedes-benz"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 158,
     "fields": {
         "name": "microsoft"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 159,
     "fields": {
         "name": "microsoftonline"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 160,
     "fields": {
         "name": "mini"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 161,
     "fields": {
         "name": "mitsubishi"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 162,
     "fields": {
         "name": "morganstanley"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 163,
     "fields": {
         "name": "motorola"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 164,
     "fields": {
         "name": "mrcglobal"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 165,
     "fields": {
         "name": "mtv"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 166,
     "fields": {
         "name": "myspace"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 167,
     "fields": {
         "name": "nescafe"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 168,
     "fields": {
         "name": "nestle"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 169,
     "fields": {
         "name": "netflix"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 170,
     "fields": {
         "name": "nike"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 171,
     "fields": {
         "name": "nintendo"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 172,
     "fields": {
         "name": "nissan"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 173,
     "fields": {
         "name": "nissanmotor"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 174,
     "fields": {
         "name": "nvidia"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 175,
     "fields": {
         "name": "nytimes"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 176,
     "fields": {
         "name": "oracle"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 177,
     "fields": {
         "name": "panasonic"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 178,
     "fields": {
         "name": "paypal"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 179,
     "fields": {
         "name": "pepsi"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 180,
     "fields": {
         "name": "pepsico"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 181,
     "fields": {
         "name": "philips"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 182,
     "fields": {
         "name": "pinterest"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 183,
     "fields": {
         "name": "pocket"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 184,
     "fields": {
         "name": "pornhub"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 185,
     "fields": {
         "name": "porsche"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 186,
     "fields": {
         "name": "prada"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 187,
     "fields": {
         "name": "rabobank"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 188,
     "fields": {
         "name": "reddit"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 189,
     "fields": {
         "name": "regal"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 190,
     "fields": {
         "name": "royalbankofcanada"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 191,
     "fields": {
         "name": "samsung"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 192,
     "fields": {
         "name": "scotiabank"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 193,
     "fields": {
         "name": "shell"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 194,
     "fields": {
         "name": "siemens"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 195,
     "fields": {
         "name": "skype"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 196,
     "fields": {
         "name": "snapchat"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 197,
     "fields": {
         "name": "sony"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 198,
     "fields": {
         "name": "soundcloud"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 199,
     "fields": {
         "name": "spiritairlines"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 200,
     "fields": {
         "name": "spotify"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 201,
     "fields": {
         "name": "sprite"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 202,
     "fields": {
         "name": "stackexchange"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 203,
     "fields": {
         "name": "stackoverflow"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 204,
     "fields": {
         "name": "starbucks"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 205,
     "fields": {
         "name": "swatch"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 206,
     "fields": {
         "name": "swift"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 207,
     "fields": {
         "name": "symantec"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 208,
     "fields": {
         "name": "synaptics"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 209,
     "fields": {
         "name": "target"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 210,
     "fields": {
         "name": "telegram"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 211,
     "fields": {
         "name": "tesla"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 212,
     "fields": {
         "name": "teslamotors"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 213,
     "fields": {
         "name": "theguardian"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 214,
     "fields": {
         "name": "homedepot"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 215,
     "fields": {
         "name": "piratebay"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 216,
     "fields": {
         "name": "tiffany"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 217,
     "fields": {
         "name": "tinder"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 218,
     "fields": {
         "name": "tmall"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 219,
     "fields": {
         "name": "toyota"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 220,
     "fields": {
         "name": "tripadvisor"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 221,
     "fields": {
         "name": "tumblr"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 222,
     "fields": {
         "name": "twitch"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 223,
     "fields": {
         "name": "twitter"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 224,
     "fields": {
         "name": "underarmour"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 225,
     "fields": {
         "name": "unilever"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 226,
     "fields": {
         "name": "universal"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 227,
     "fields": {
         "name": "ups"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 228,
     "fields": {
         "name": "verizon"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 229,
     "fields": {
         "name": "viber"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 230,
     "fields": {
         "name": "visa"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 231,
     "fields": {
         "name": "volkswagen"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 232,
     "fields": {
         "name": "volvocars"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 233,
     "fields": {
         "name": "walmart"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 234,
     "fields": {
         "name": "wechat"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 235,
     "fields": {
         "name": "weibo"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 236,
     "fields": {
         "name": "whatsapp"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 237,
     "fields": {
         "name": "wikipedia"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 238,
     "fields": {
         "name": "wordpress"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 239,
     "fields": {
         "name": "yahoo"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 240,
     "fields": {
         "name": "yamaha"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 241,
     "fields": {
         "name": "yandex"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 242,
     "fields": {
         "name": "youtube"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 243,
     "fields": {
         "name": "zara"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 244,
     "fields": {
         "name": "zebra"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 245,
     "fields": {
         "name": "iphone"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 246,
     "fields": {
         "name": "icloud"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 247,
     "fields": {
         "name": "itunes"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 248,
     "fields": {
         "name": "sinara"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 249,
     "fields": {
         "name": "normshield"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 250,
     "fields": {
         "name": "bga"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 251,
     "fields": {
         "name": "sinaralabs"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 252,
     "fields": {
         "name": "roksit"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 253,
     "fields": {
         "name": "cybrml"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 254,
     "fields": {
         "name": "turkcell"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 255,
     "fields": {
         "name": "n11"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 256,
     "fields": {
         "name": "hepsiburada"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 257,
     "fields": {
         "name": "migros"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 258,
     "fields": {
         "name": "mozilla"
     }
 },
 {
-    "model": "long_bar.knownbrand",
+    "model": "detector.knownbrand",
     "pk": 259,
     "fields": {
         "name": "djangoproject"
     }
 },
 {
-    "model": "long_bar.phishinghint",
+    "model": "detector.phishinghint",
     "pk": 1,
     "fields": {
         "value": "wp"
     }
 },
 {
-    "model": "long_bar.phishinghint",
+    "model": "detector.phishinghint",
     "pk": 2,
     "fields": {
         "value": "login"
     }
 },
 {
-    "model": "long_bar.phishinghint",
+    "model": "detector.phishinghint",
     "pk": 3,
     "fields": {
         "value": "includes"
     }
 },
 {
-    "model": "long_bar.phishinghint",
+    "model": "detector.phishinghint",
     "pk": 4,
     "fields": {
         "value": "admin"
     }
 },
 {
-    "model": "long_bar.phishinghint",
+    "model": "detector.phishinghint",
     "pk": 5,
     "fields": {
         "value": "content"
     }
 },
 {
-    "model": "long_bar.phishinghint",
+    "model": "detector.phishinghint",
     "pk": 6,
     "fields": {
         "value": "site"
     }
 },
 {
-    "model": "long_bar.phishinghint",
+    "model": "detector.phishinghint",
     "pk": 7,
     "fields": {
         "value": "images"
     }
 },
 {
-    "model": "long_bar.phishinghint",
+    "model": "detector.phishinghint",
     "pk": 8,
     "fields": {
         "value": "js"
     }
 },
 {
-    "model": "long_bar.phishinghint",
+    "model": "detector.phishinghint",
     "pk": 9,
     "fields": {
         "value": "alibaba"
     }
 },
 {
-    "model": "long_bar.phishinghint",
+    "model": "detector.phishinghint",
     "pk": 10,
     "fields": {
         "value": "css"
     }
 },
 {
-    "model": "long_bar.phishinghint",
+    "model": "detector.phishinghint",
     "pk": 11,
     "fields": {
         "value": "myaccount"
     }
 },
 {
-    "model": "long_bar.phishinghint",
+    "model": "detector.phishinghint",
     "pk": 12,
     "fields": {
         "value": "dropbox"
     }
 },
 {
-    "model": "long_bar.phishinghint",
+    "model": "detector.phishinghint",
     "pk": 13,
     "fields": {
         "value": "themes"
     }
 },
 {
-    "model": "long_bar.phishinghint",
+    "model": "detector.phishinghint",
     "pk": 14,
     "fields": {
         "value": "plugins"
     }
 },
 {
-    "model": "long_bar.phishinghint",
+    "model": "detector.phishinghint",
     "pk": 15,
     "fields": {
         "value": "signin"
     }
 },
 {
-    "model": "long_bar.phishinghint",
+    "model": "detector.phishinghint",
     "pk": 16,
     "fields": {
         "value": "view"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 26,
     "fields": {
         "value": "fit"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 27,
     "fields": {
         "value": "tk"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 28,
     "fields": {
         "value": "gp"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 29,
     "fields": {
         "value": "ga"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 30,
     "fields": {
         "value": "work"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 31,
     "fields": {
         "value": "ml"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 32,
     "fields": {
         "value": "date"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 33,
     "fields": {
         "value": "wang"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 34,
     "fields": {
         "value": "men"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 35,
     "fields": {
         "value": "icu"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 36,
     "fields": {
         "value": "online"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 37,
     "fields": {
         "value": "click"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 38,
     "fields": {
         "value": "country"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 39,
     "fields": {
         "value": "stream"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 40,
     "fields": {
         "value": "download"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 41,
     "fields": {
         "value": "xin"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 42,
     "fields": {
         "value": "racing"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 43,
     "fields": {
         "value": "jetzt"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 44,
     "fields": {
         "value": "ren"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 45,
     "fields": {
         "value": "mom"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 46,
     "fields": {
         "value": "party"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 47,
     "fields": {
         "value": "review"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 48,
     "fields": {
         "value": "trade"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 49,
     "fields": {
         "value": "accountants"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 50,
     "fields": {
         "value": "science"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 51,
     "fields": {
         "value": "ninja"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 52,
     "fields": {
         "value": "xyz"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 53,
     "fields": {
         "value": "faith"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 54,
     "fields": {
         "value": "zip"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 55,
     "fields": {
         "value": "cricket"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 56,
     "fields": {
         "value": "win"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 57,
     "fields": {
         "value": "accountant"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 58,
     "fields": {
         "value": "realtor"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 59,
     "fields": {
         "value": "top"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 60,
     "fields": {
         "value": "christmas"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 61,
     "fields": {
         "value": "gdn"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 62,
     "fields": {
         "value": "link"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 63,
     "fields": {
         "value": "asia"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 64,
     "fields": {
         "value": "club"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 65,
     "fields": {
         "value": "la"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 66,
     "fields": {
         "value": "ae"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 67,
     "fields": {
         "value": "exposed"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 68,
     "fields": {
         "value": "pe"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 69,
     "fields": {
         "value": "go.id"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 70,
     "fields": {
         "value": "rs"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 71,
     "fields": {
         "value": "k12.pa.us"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 72,
     "fields": {
         "value": "or.kr"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 73,
     "fields": {
         "value": "ce.ke"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 74,
     "fields": {
         "value": "audio"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 75,
     "fields": {
         "value": "gob.pe"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 76,
     "fields": {
         "value": "gov.az"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 77,
     "fields": {
         "value": "website"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 78,
     "fields": {
         "value": "bj"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 79,
     "fields": {
         "value": "mx"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 80,
     "fields": {
         "value": "media"
     }
 },
 {
-    "model": "long_bar.suspicioustld",
+    "model": "detector.suspicioustld",
     "pk": 81,
     "fields": {
         "value": "sa.gov.au"

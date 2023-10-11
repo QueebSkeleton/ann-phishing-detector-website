@@ -13,12 +13,12 @@
           rel="stylesheet"
           integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM"
           crossorigin="anonymous">
-    <link rel="stylesheet" href="{% static 'long_bar/css/style.css' %}">
+    <link rel="stylesheet" href="{% static 'detector/css/style.css' %}">
   </head>
   <body>
     <nav class="navbar navbar-expand-lg bg-light" id="phishingNavbar">
       <div class="container">
-        <img src="{% static 'long_bar/img/logo.jpg' %}"
+        <img src="{% static 'detector/img/logo.jpg' %}"
              height="50"
              alt="Website logo" />
         <button class="navbar-toggler ps-0"
@@ -68,7 +68,7 @@
       <div class="row justify-content-center">
         <div class="col-sm-8 col-md-6 text-center">
           <h1>Phishing Link Detector</h1>
-          <form method="get" action="{% url 'long_bar:predict' %}" id="urlInputForm"
+          <form method="get" action="{% url 'detector:predict' %}" id="urlInputForm"
             class="mb-4">
             <div class="mb-3">
               <input type="url" id="urlInput" class="form-control"

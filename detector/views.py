@@ -8,16 +8,16 @@ from .utils.feature_extractor import extract_features
 from .utils.feature_description import DESCRIPTIONS
 
 def index(request):
-    return render(request, "long_bar/index.html", {})
+    return render(request, "detector/index.html", {})
 
 
 def predict(request):
     # Load the model, scaler
     import os
     module_dir = os.path.dirname(__file__)
-    with open(os.path.join(module_dir, "phishing_binaries/model.dill"), "rb") as model_file:
+    with open(os.path.join(module_dir, "inferencemodel_binaries/model.dill"), "rb") as model_file:
         phishing_model = dill.load(model_file)
-    with open(os.path.join(module_dir, "phishing_binaries/input_scaler.dill"), "rb") as input_scaler_file:
+    with open(os.path.join(module_dir, "inferencemodel_binaries/input_scaler.dill"), "rb") as input_scaler_file:
         input_scaler = dill.load(input_scaler_file)
 
     # Get the URL to predict from the request

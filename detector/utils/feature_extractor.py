@@ -182,7 +182,7 @@ def extract_features(url):
         'domain_in_brand': 1 if domain in KNOWN_BRANDS else 0,
         'brand_in_subdomain': 1 if subdomain in KNOWN_BRANDS else 0,
         'brand_in_path': max([1 if '.' + BRAND + '.' in path and BRAND not in domain else 0
-                              for BRAND in KNOWN_BRANDS]),
+                              for BRAND in KNOWN_BRANDS], default=0),
         'suspicious_tld': 1 if tld in SUSPICIOUS_TLDS else 0,
         'statistical_report': statistical_report(url, domain)
     }

@@ -60,6 +60,10 @@ Then, the instance will now run on your local machine. Endpoints are:
 
 1. `localhost:8000` - the index page of the application.
 
+## Preview Images
+
+![Front Page Preview](readme-images/1.png)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Markdown Links & Images -->
@@ -74,4 +78,3 @@ Then, the instance will now run on your local machine. Endpoints are:
 [Django-docs]: https://www.djangoproject.com/
 [PyTorch-shield]: https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white
 [PyTorch-docs]: https://pytorch.org/
-
